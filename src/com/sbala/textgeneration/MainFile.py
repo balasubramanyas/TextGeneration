@@ -4,6 +4,7 @@ Created on Nov 15, 2018
 @author: balasubramanyas
 '''
 
+
 from com.sbala.textgeneration import TextDataConverter as TDC
 from com.sbala.textgeneration import TextGenerationModel as TGM
 import tensorflow as tf

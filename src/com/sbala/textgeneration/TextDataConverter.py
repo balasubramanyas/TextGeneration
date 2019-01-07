@@ -3,6 +3,7 @@ Created on Nov 13, 2018
 
 @author: balasubramanyas
 '''
+
 import tensorflow as tf
 tf.enable_eager_execution()
 import numpy as np
